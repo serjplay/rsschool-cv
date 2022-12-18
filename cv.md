@@ -1,3 +1,1 @@
-Sergei
-update cv.md file
-update 
+https://serjplay.github.io/rsschool-cv/
