@@ -1,3 +1,3 @@
-https://github.com/serjplay/rsschool-cv
-https://github.com/serjplay/rsschool-cv/cv
-
+https://serjplay.github.io/rsschool-cv/cv
+<br/>
+https://serjplay.github.io/rsschool-cv/
